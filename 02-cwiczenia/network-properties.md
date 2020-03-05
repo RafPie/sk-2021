@@ -30,6 +30,7 @@ Weryfikacja połączenia
 
 Polecenie
 ```
+ping 10.0.15.5 jest odp.
 ```
 
 Efekt
